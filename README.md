@@ -229,7 +229,7 @@ bot.main()
 
 ## Cost Analysis
 
-- **X API**: Free tier (1,500 tweets/month)
+- **X API**: Free tier (500 tweets/month)
 - **Bible API**: Free (bible-api.com)
 - **Ollama**: Free (local AI)
 - **Hosting**: Free (local machine or GitHub Actions)
@@ -254,3 +254,4 @@ For issues or questions:
 ## License
 
 This project is for educational and personal use. Please respect X's Terms of Service and use responsibly.
+
